@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TripleDES</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Keys</string>
+    <string name="second_fragment_label">Encrypt Sample</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="public_key_title">Public Key:</string>
+    <string name="private_key_title">Private Key:</string>
+    <string name="input_text">Encryption Input Sample</string>
+    <string name="settings_fragment_label">Settings</string>
+    <string name="input_ip_addrs">IP</string>
+    <string name="button_save">Save</string>
+    <string name="IP_KEY">ip_key</string>
+    <string name="server_ip_title">Server IP Address:</string>
+    <string name="hint_name">Insert your name</string>
+    <string name="button_share_key">Share Public Key</string>
+    <string name="available_users_title">Available users to talk:</string>
+    <string name="chat">Go to Chat</string>
+    <string name="select_chat_user">Select a User to talk</string>
+    <string name="chat_user">Chat</string>
+    <string name="hint_send_message">Type a message to send</string>
+    <string name="message_from_user">Message received:</string>
+    <string name="button_send_message">Send message</string>
+    <string name="button_refresh">Refresh</string>
+    <string name="USER_NAME">user_name</string>
+
+</resources>
